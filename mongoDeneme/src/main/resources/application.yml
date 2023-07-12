@@ -1,0 +1,7 @@
+spring :
+  data :
+    mongodb :
+      uri : mongodb+srv://root:3333@kirlangic.n6obeir.mongodb.net/?retryWrites=true&w=majority
+      database: Task
+
+
